@@ -1,0 +1,13 @@
+{
+  "logo": {
+    "icon": "Palette",
+    "text": "GFX Town",
+    "showIcon": true
+  },
+  "socialMedia": {
+    "instagram": {
+      "url": "https://www.instagram.com/gfx.tw/",
+      "icon": "Instagram"
+    }
+  }
+}

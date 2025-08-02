@@ -1,0 +1,22 @@
+[
+  {
+    "value": "500+",
+    "label": "Projects Completed",
+    "color": "text-primary"
+  },
+  {
+    "value": "200+",
+    "label": "Happy Clients",
+    "color": "text-accent"
+  },
+  {
+    "value": "5+",
+    "label": "Years Experience",
+    "color": "text-secondary"
+  },
+  {
+    "value": "24/7",
+    "label": "Support",
+    "color": "text-primary"
+  }
+]

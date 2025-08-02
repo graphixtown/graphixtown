@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Logo Design",
+    "description": "Professional logo design that captures your brand's essence and makes a lasting impression.",
+    "icon": "🎨",
+    "features": [
+      "Custom Design",
+      "Multiple Concepts",
+      "Vector Files",
+      "Brand Guidelines"
+    ],
+    "price": "$299+",
+    "color": "text-primary"
+  },
+  {
+    "title": "Video Graphics",
+    "description": "Motion graphics and video editing that bring your content to life with stunning animations.",
+    "icon": "🎬",
+    "features": [
+      "Motion Graphics",
+      "Video Editing",
+      "Animations",
+      "Color Grading"
+    ],
+    "price": "$499+",
+    "color": "text-accent"
+  },
+  {
+    "title": "Brand Identity",
+    "description": "Complete brand identity packages including logo, colors, typography, and brand guidelines.",
+    "icon": "✨",
+    "features": [
+      "Logo & Variations",
+      "Color Palette",
+      "Typography",
+      "Brand Book"
+    ],
+    "price": "$799+",
+    "color": "text-secondary"
+  }
+]
