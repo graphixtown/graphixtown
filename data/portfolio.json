@@ -1,28 +1,28 @@
 [
   {
     "title": "Logo Designs",
-    "description": "Modern logo design for innovative tech company",
+    "description": "Cretive Logo Designs",
     "category": "graphics",
     "imageUrl": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400",
     "featured": true
   },
   {
     "title": "Poster Arts",
-    "description": "Complete branding solution for creative agency",
+    "description": "Complete branding solution",
     "category": "graphics",
     "imageUrl": "https://images.unsplash.com/photo-1561070791-2526d30994b5?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400",
     "featured": true
   },
   {
     "title": "Thumbnail Designs",
-    "description": "Dynamic animated video for product launch",
+    "description": "Cool and Clicky Thumbnails for your Channel",
     "category": "video",
     "imageUrl": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400",
     "featured": true
   },
   {
     "title": "Branding and advertizements",
-    "description": "Elegant menu design for upscale restaurant",
+    "description": "Improve Branding and social image of your Brand",
     "category": "graphics",
     "imageUrl": "https://images.unsplash.com/photo-1586717791821-3f44a563fa4c?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400",
     "featured": false
@@ -36,7 +36,7 @@
   },
   {
     "title": "Video Editing",
-    "description": "Professional animated presentation",
+    "description": "Make your Videos more Engageing",
     "category": "motion",
     "imageUrl": "https://images.unsplash.com/photo-1551818255-e6e10975bc17?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400",
     "featured": false
